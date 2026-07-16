@@ -9,9 +9,9 @@ int main() {
     // Student Information
     // ==========================
 
-    string name = "Your Name";
-    string id = "24-XXXXX-X";
-    string section = "A";
+    string name = "sabuj kumar paul";
+    string id = "24-59609-3";
+    string section = "DD";
 
     // ==========================
     // Personal Information
