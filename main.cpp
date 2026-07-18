@@ -9,9 +9,10 @@ int main() {
     // Student Information
     // ==========================
 
-    string name = "Your Name";
-    string id = "24-XXXXX-X";
+    string name = "Sabuj kumar paul";
+    string id = "24-59609-3";
     string section = "A";
+    string language ="Java"
 
     // ==========================
     // Personal Information
